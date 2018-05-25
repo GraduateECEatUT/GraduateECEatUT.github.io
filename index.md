@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to the Graduate ECE (GREECE) @ UT Homepage
 
-You can use the [editor on GitHub](https://github.com/GraduateECEatUT/GraduateECEatUT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The purpose of the Graduate ECE (GREECE) is to interact with ECE graduate students across labs and tracks and foster a sense of community within the UT Graduate ECE department. We host social events, industry events, and provide a voice to the administration on graduate student needs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have tons of fun events planned for the Fall 2018/Spring 2019 school year so stay in touch! We'll have a calendar up soon.
 
-### Markdown
+### Stay Connected
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have two ways to stay connected:
 
-```markdown
-Syntax highlighted code block
+- [Mailing List](https://utlists.utexas.edu/sympa/info/greece/): used for event updates
+- [Slack Channel](https://bit.ly/utecegradslack): used for communicating with fellow Graduate ECE students.
 
-# Header 1
-## Header 2
-### Header 3
+### GREECE Board
 
-- Bulleted
-- List
+Our board is chosen to be representative of the Graduate ECE community at UT, so that all voices are heard.
 
-1. Numbered
-2. List
+We currently have 11 members:
+- Willy V.
+- Prenav K.
+- Prerana M.
+- Otitoaleke A.
+- Shorya C.
+- Shijia W.
+- Jean R.
+- Madhumitha S.
+- Suresh V.
+- Meixu C.
+- Hongfeng Y.
 
-**Bold** and _Italic_ and `Code` text
+### Corporate Sponsors
 
-[Link](url) and ![Image](src)
-```
+Coming soon ;)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Us
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GraduateECEatUT/GraduateECEatUT.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The GREECE board can be reached at [greece-board@utlists.utexas.edu](mailto:greece-board@utlists.utexas.edu). Please reach out if you have any questions/comments/concerns!
