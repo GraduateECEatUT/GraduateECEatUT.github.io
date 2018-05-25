@@ -17,7 +17,7 @@ Our board is chosen to be representative of the Graduate ECE community at UT, so
 
 We currently have 11 members:
 - Willy V.
-- Prenav K.
+- Pranav K.
 - Prerana M.
 - Otitoaleke A.
 - Shorya C.
