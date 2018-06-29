@@ -1,10 +1,3 @@
----
-GREECE Board
----
-
-Board Members
-=====
-
 ### GREECE Board
 
 Our board is chosen to be representative of the Graduate ECE community at UT, so that all voices are heard.
