@@ -1,6 +1,6 @@
 ## Welcome to the Graduate ECE (GREECE) @ UT Homepage
 
-[Resources](resources) [Board](board) [Corporate](corporate)
+[**Resources**](resources) &nbsp;&nbsp; [**Board**](board) &nbsp;&nbsp; [**Corporate**](corporate)
 
 The purpose of the Graduate ECE (GREECE) is to interact with ECE graduate students across labs and tracks and foster a sense of community within the UT Graduate ECE department. We host social events, industry events, and provide a voice to the administration on graduate student needs.
 
