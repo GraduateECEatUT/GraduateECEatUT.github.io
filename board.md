@@ -2,7 +2,6 @@
 
 Our board is chosen to be representative of the Graduate ECE community at UT, so that all voices are heard.
 
-| Name     |   Track    |
 | :--------: | :---------: |
 | Willy R. Vasquez |ACSES|
 | Pranav Kumar |ACSES|
