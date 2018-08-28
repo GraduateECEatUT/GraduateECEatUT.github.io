@@ -1,18 +1,12 @@
-### GREECE Board
+### The Board
 
-Our board is chosen to be representative of the Graduate ECE community at UT, so that all voices are heard.
 
 | :--------: | :---------: |
-| Willy R. Vasquez |ACSES|
-| Pranav Kumar |ACSES|
-| Prerana Maslekar |ACSES|
-| Otitoaleke G. Akinola |SSE|
-| Shorya Consul |BioECE|
-| Shijia Wei |ACSES|
-| Jean Abou Rahal |DICE|
-| Madhumitha Sakhti |DICE|
-| Venkata Suresh Rayudu |ICS|
-| Meixu Chen |DICE|
-| Hongfeng Yang |E&M|
+| President(s) | Willy R. Vasquez, Pranav Kumar |
+| Treasury | Otitoaleke Akinola |
+| Director(s) of Communications | Prerana Maslekar, Venkata Suresh Rayudu |
+| Event Director(s) | Madhumitha Sakhti, Meixu Chen |
+| Director of Operations | Shorya Consul |
+| Director(s) of Publicity | Hongfeng Yang, Jean Abou Rahal, Shijia Wei |
 
 You can reach us at [greece-board@utlists.utexas.edu](mailto:greece-board@utlists.utexas.edu).
