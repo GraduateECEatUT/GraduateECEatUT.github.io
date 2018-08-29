@@ -2,7 +2,7 @@
 
 
 | :--------: | :---------: |
-| President(s) | {% include image.html file="image-name.jpg" description="This is an image." %}  Willy R. Vasquez, Pranav Kumar |
+| President(s) | {% include image.html file="willy.jpg" description="Willy R. Vasquez" %}  Pranav Kumar |
 | Treasury | Otitoaleke Akinola |
 | Director(s) of Communications | Prerana Maslekar, Venkata Suresh Rayudu |
 | Event Director(s) | Madhumitha Sakhti, Meixu Chen |
