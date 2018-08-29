@@ -15,4 +15,5 @@ You can reach us at [greece-board@utlists.utexas.edu](mailto:greece-board@utlist
 
 President(s)
 
-{% include image.html file="willy.jpg" description="Willy R. Vasquez" %} 
+{% include image.html file="willy.jpg" description="Willy R. Vasquez" %} {% include image.html file="willy.jpg" description="Pranav Kumar" %}
+ {% include image.html file="willy.jpg" description="Willy R. Vasquez" %} {% include image.html file="willy.jpg" description="Pranav Kumar" %} 
