@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5940 2293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-375,-344)">
+        <g transform="matrix(1,0,0,1,600,1830)">
+            <path d="M0,-1060L0,-480L300,-180L300,0" style="fill:none;fill-rule:nonzero;stroke:rgb(80,134,235);stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1060,-69)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(82,168,74);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-760,1390)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(82,168,74);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-260,1572)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(217,151,52);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-560,130)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(217,151,52);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1560,-271)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(80,134,235);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1260,1209)">
+            <circle cx="2160" cy="840" r="180" style="fill:none;stroke:rgb(80,134,235);stroke-width:90px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1100,2030)">
+            <path d="M0,-1060L0,-680L300,-380L300,0" style="fill:none;fill-rule:nonzero;stroke:rgb(82,168,74);stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1600,2230)">
+            <path d="M0,-1060L0,-880L300,-580L300,0" style="fill:none;fill-rule:nonzero;stroke:rgb(217,151,52);stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2665,1500)">
+            <path d="M0,0L105,0C105,140.833 -9.167,255 -150,255C-290.833,255 -405,140.833 -405,0C-405,-140.833 -290.833,-255 -150,-255C-55.623,-255 26.779,-203.729 70.873,-127.521" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(0.130544,-0.991443,-0.991443,-0.130544,5408.86,1260.08)">
+            <path d="M-283.412,-191.143C-395.109,-176.511 -487.536,-88.543 -502.941,28.45C-521.326,168.078 -423.039,296.172 -283.412,314.557C-143.784,332.942 -15.69,234.655 2.695,95.028C18.1,-21.966 -48.407,-130.86 -152.511,-173.907" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3034.69,1245)">
+            <path d="M0,435.312C-46.146,389.166 -74.688,325.416 -74.688,255C-74.688,114.166 39.479,0 180.312,0C321.145,0 435.312,114.166 435.312,255" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3990,1500)">
+            <path d="M0,0L180,0C180,-140.833 65.833,-255 -75,-255C-215.833,-255 -330,-140.833 -330,0C-330,140.833 -215.833,255 -75,255C19.377,255 101.779,203.729 145.873,127.521" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,4690,1500)">
+            <path d="M0,0L180,0C180,-140.833 65.833,-255 -75,-255C-215.833,-255 -330,-140.833 -330,0C-330,140.833 -215.833,255 -75,255C19.377,255 101.779,203.729 145.873,127.521" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,6090,1500)">
+            <path d="M0,0L180,0C180,-140.833 65.833,-255 -75,-255C-215.833,-255 -330,-140.833 -330,0C-330,140.833 -215.833,255 -75,255C19.377,255 101.779,203.729 145.873,127.521" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:90px;"/>
+        </g>
+    </g>
+</svg>
