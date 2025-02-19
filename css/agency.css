@@ -25,6 +25,11 @@ a:hover {
   color: #fed136 !important;
 }
 
+iframe {
+    display: block;
+    border-style:none;
+}
+
 h1,
 h2,
 h3,
