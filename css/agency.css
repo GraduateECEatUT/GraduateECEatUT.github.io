@@ -592,6 +592,7 @@ background-color: #ff9a47;
   width: 225px;
   height: 225px;
   border: 7px solid #fff;
+  object-fit: cover;
 }
 
 .team-member h4 {
